@@ -1,0 +1,9 @@
+.expense-item {
+  max-width: 400px;
+  background-color: gray;
+  border: 1px black solid;
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 10px;
+  align-items: center;
+}
